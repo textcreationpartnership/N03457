@@ -112,12 +112,12 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:004229_0000_100422A916937AE0"/>
-            <pb facs="tcp:004229_0001_100422AA9D515348"/>
+            <pb facs="unknown:004229_0000_100422A916937AE0"/>
+            <pb facs="unknown:004229_0001_100422AA9D515348"/>
             <p>Mr. <hi>BYLES</hi>'s POEM Upon the <hi>Death</hi> OF THE QUEEN.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:004229_0002_100422AF188340D8"/>
+            <pb facs="unknown:004229_0002_100422AF188340D8"/>
             <p>On the DEATH OF THE QUEEN. A POEM. Inſcribed to His EXCELLENCY <hi>Governour BELCHER.</hi>
             </p>
             <p>By the Reverend Mr. <hi>BYLES,</hi>
@@ -137,7 +137,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="1" facs="tcp:004229_0003_1004224BE856B8A0"/>
+            <pb n="1" facs="unknown:004229_0003_1004224BE856B8A0"/>
             <head>On the <hi>Death</hi> OF THE QUEEN. To His EXCELLENCY <hi>Governour BELCHER</hi>
             </head>
             <lg>
@@ -149,7 +149,7 @@
                <l>The mourning Muſe, to conſolation deaf,</l>
                <l>Swells the ſad conſort with melodious grief.</l>
                <l>
-                  <pb n="2" facs="tcp:004229_0004_100422B3CD0081A8"/>
+                  <pb n="2" facs="unknown:004229_0004_100422B3CD0081A8"/>
 Ten flow'ry ſprings on golden plumes have flown</l>
                <l>Since ſhe, triumphant, hail'd thee on thy throne.</l>
                <l>Oh CAROLINE! Oh Princeſs now no more!</l>
@@ -167,7 +167,7 @@ Ten flow'ry ſprings on golden plumes have flown</l>
                <l>Her lover with a pious eye ſhe view'd,</l>
                <l>And CAESAR at her feet ſucceſsleſs ſu'd:</l>
                <l>
-                  <pb n="3" facs="tcp:004229_0005_100401D98AF09D08"/>
+                  <pb n="3" facs="unknown:004229_0005_100401D98AF09D08"/>
 Imperial purple her calm eyes diſdain,</l>
                <l>And <hi>Roman</hi> Eagles wav'd their wings in vain;</l>
                <l>Inſpir'd, Religion's dictates to diſcharge,</l>
@@ -185,7 +185,7 @@ Imperial purple her calm eyes diſdain,</l>
                <l>Far fom vain courts her ſilent footſteps roam,</l>
                <l>Where choſen volumes deck'd the ſacred dome:</l>
                <l>
-                  <pb n="4" facs="tcp:004229_0006_100422BADDEBA718"/>
+                  <pb n="4" facs="unknown:004229_0006_100422BADDEBA718"/>
 Still loud applauſes of the joyful age,</l>
                <l>Purſu'd her thro' the lonely Hermitage.</l>
                <l>Here, in high raptures, her immortal mind,</l>
@@ -199,7 +199,7 @@ Still loud applauſes of the joyful age,</l>
                <l>Such was the Queen! ſhe was — but is no more! —</l>
                <l>Wide wounds the woe, and ſpreads from ſhore to ſhore;</l>
                <l>
-                  <pb n="5" facs="tcp:004229_0007_100422BF5EF1AD38"/>
+                  <pb n="5" facs="unknown:004229_0007_100422BF5EF1AD38"/>
 Groans the hoarſe Ocean as the tydings fly,</l>
                <l>Wave roars to wave, and rocks to rocks reply,</l>
                <l>
@@ -216,7 +216,7 @@ Groans the hoarſe Ocean as the tydings fly,</l>
                <l>The Muſe reluctant, by your Order ſings,</l>
                <l>Elſe had ſhe ſilent wept, and broke her ſtrings.</l>
                <l>
-                  <pb n="6" facs="tcp:004229_0008_100422C2B8B2C540"/>
+                  <pb n="6" facs="unknown:004229_0008_100422C2B8B2C540"/>
 What fame to <hi>us</hi> reports, by <hi>you</hi> were ſeen,</l>
                <l>The glance attractive, the majeſtick mien,</l>
                <l>The Angel form each milder feature wears,</l>
@@ -234,7 +234,7 @@ What fame to <hi>us</hi> reports, by <hi>you</hi> were ſeen,</l>
                <l>O Virtue, now thy joys are all ſincere!</l>
                <l>Th' exulting Queen demands the final pray'r,</l>
                <l>
-                  <pb n="7" facs="tcp:004229_0009_100422C444EE2560"/>
+                  <pb n="7" facs="unknown:004229_0009_100422C444EE2560"/>
 (Eternal glories op'ning to her view,)</l>
                <l>Waves her joy hand, and bids the Globe adieu.</l>
             </lg>
